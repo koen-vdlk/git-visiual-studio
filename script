@@ -1,1 +1,3 @@
 echo "dit is een script"
+echo " dit is een tweede lijn "
+echo "dit is van de bugfix "
